@@ -30,4 +30,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/hellp002)
 
+**Stats**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&size_weight=0.5&count_weight=0.5)
 
