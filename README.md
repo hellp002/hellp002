@@ -30,6 +30,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/hellp002)
 
-**Stats**
+
 
 
