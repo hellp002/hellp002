@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Next.js and Deep Learning Frameworks such as tensorflow, pytorch
 - 📫 How to reach me: ...
 
-## Language and Tool
+## Programming Language
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,java,cpp,js,ts,tailwind,react,postgres,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,cpp,js,ts,tailwind,react,postgres,mongodb)]([https://www.python.org/][https://github.com/hellp002])
