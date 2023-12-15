@@ -2,7 +2,8 @@
 <p align = "center"><b>
   I am a third-year engineering student at Chulalongkorn University, currently passionate about full-stack web development and aspiring to become a Machine Learning Engineer.
 </b></p>
-**About Me:**
+
+**About Me**
 
 - 🔭 I’m currently working on Website development
 - 🌱 I’m currently learning Next.js and Deep Learning Frameworks such as tensorflow, pytorch
