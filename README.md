@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Next.js and Deep Learning Frameworks such as tensorflow, pytorch
 - 📫 How to reach me: [werapat.wangrungroj@gmail.com](werapat.wangrungroj@gmail.com)
 
-**Programming Language/Framework**
+**Programming Language & Frameworks**
 
 [![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.java.com/en/)
