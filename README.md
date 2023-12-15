@@ -8,4 +8,4 @@
 
 ## Programming Language
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,java,cpp,js,ts,tailwind,react,postgres,mongodb)]([https://www.python.org/][https://github.com/hellp002])
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,cpp,js,ts,tailwind,react,postgres,mongodb)]([https://github.com/hellp002])
