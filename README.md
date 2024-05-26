@@ -64,10 +64,35 @@
             height="40"
           />
 </a>
-[![My Skills](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com/)
-[![My Skills](https://skills.thijs.gg/icons?i=eclipse)](https://eclipseide.org/)
-[![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
-[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/hellp002)
+<a href="https://code.visualstudio.com/">
+<img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+            width="40"
+            height="40"
+          />
+</a>
+<a href="https://eclipseide.org/">
+<img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"
+            width="40"
+            height="40"
+          />
+</a>
+<a href="https://git-scm.com/">
+<img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+            width="40"
+            height="40"
+          />
+</a>
+<a href="https://github.com/hellp002">
+<img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+            width="40"
+            height="40"
+          />
+</a>
+
 
 
 
