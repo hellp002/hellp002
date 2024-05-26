@@ -11,24 +11,64 @@
 
 **Programming Language & Frameworks**
 
-[![My Skills](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.java.com/en/)
-[![My Skills](https://skills.thijs.gg/icons?i=cpp)](https://cplusplus.com/)
-[![My Skills](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![My Skills](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org/docs/)
-[![My Skills](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/)
-[![My Skills](https://skills.thijs.gg/icons?i=react)](https://react.dev/)
-[![My Skills](https://skills.thijs.gg/icons?i=postgres)](https://www.postgresql.org/)
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb)](https://www.mongodb.com/)
-[![My Skills](https://skills.thijs.gg/icons?i=firebase)](https://firebase.google.com/)
-[![My Skills](https://skills.thijs.gg/icons?i=pytorch)](https://pytorch.org/)
+<a href="https://www.python.org/">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            width="40"
+            height="40"
+          />
+        </a>
+<a href="https://www.java.com/en/">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            width="40"
+            height="40"
+          />
+        </a>
+<a href="https://www.typescriptlang.org/docs/">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            width="40"
+            height="40"
+          />
+        </a>
+<a href="https://react.dev/">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+            width="40"
+            height="40"
+          />
+        </a>
+
+<a href="https://pytorch.org/">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+            width="40"
+            height="40"
+          />
+        </a>
 
 **Tools**
 
+<a href="https://www.postgresql.org/">
+<img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+            width="40"
+            height="40"
+          />
+</a>
+<a href="https://www.mongodb.com/">
+<img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+            width="40"
+            height="40"
+          />
+</a>
 [![My Skills](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=eclipse)](https://eclipseide.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/hellp002)
+
 
 
 
