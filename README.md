@@ -11,7 +11,7 @@
 
 **Programming Language & Frameworks**
 
-[![My Skills](cloud/amazon.svg)](https://www.python.org/)
+[![My Skills](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.java.com/en/)
 [![My Skills](https://skills.thijs.gg/icons?i=cpp)](https://cplusplus.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
