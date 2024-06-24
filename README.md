@@ -6,7 +6,7 @@
 **About Me**
 
 - 🔭 I’m currently working on Website development
-- 🌱 I’m currently learning Next.js and Deep Learning Frameworks such as tensorflow, pytorch
+- 🌱 I’m currently learning Next.js and Deep Learning Frameworks such as tensorflow, pytorch lightning
 - 📫 How to reach me: [werapat.wangrungroj@gmail.com](werapat.wangrungroj@gmail.com)
 
 **Programming Language & Frameworks**
