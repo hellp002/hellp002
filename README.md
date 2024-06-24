@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on Website development
 - 🌱 I’m currently learning Next.js and Deep Learning Frameworks such as tensorflow, pytorch lightning
 - 📫 How to reach me: [werapat.wangrungroj@gmail.com](werapat.wangrungroj@gmail.com)
+- My [profile page](https://hellp002.github.io/profile-page/) (WIP)
 
 **Programming Language & Frameworks**
 
