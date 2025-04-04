@@ -1,6 +1,6 @@
 <h1 align = "center">Hi there 👋, I'm We</h1>
 <p align = "center"><b>
-  I am a third-year engineering student at Chulalongkorn University, currently passionate about full-stack web development and aspiring to become a Machine Learning Engineer.
+  I am a fourth-year engineering student at Chulalongkorn University, currently passionate about full-stack web development and aspiring to become a Machine Learning Engineer.
 </b></p>
 
 **About Me**
